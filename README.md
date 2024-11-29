@@ -1,8 +1,7 @@
+**Galvez, Cledwyn Jophiel L.**
+
 # app-dev
 My first repository
-
-**Galvez, Cledwyn Jophiel L.**
-**BI - 501**
 
 ## My favorite series/movies
 1. Arcane
